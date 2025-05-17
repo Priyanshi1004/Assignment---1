@@ -19,7 +19,7 @@ Bonus task 4- Dockerfile.dockerfile
 ```
 2. Create and activate a virtual environment:
 ```   
-   python -m venv venv# On Windows
+   python -m venv venv
 ```
 3. Install required Python packages:
 ```
