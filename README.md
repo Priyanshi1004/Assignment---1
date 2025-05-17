@@ -14,7 +14,7 @@ Bonus task 4- Dockerfile.dockerfile
 
 1. Clone the repository:
 ```   
-   [git clone https://github.com/yourusername/abc-insurance-system.git](https://github.com/Priyanshi1004/Assignment---1.git)
+   git clone (https://github.com/Priyanshi1004/Assignment---1.git)
    cd Assignment---1
 ```
 2. Create and activate a virtual environment:
