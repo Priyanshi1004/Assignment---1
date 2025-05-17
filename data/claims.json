@@ -1,0 +1,34 @@
+{
+    "68a12e4d": {
+        "id": "68a12e4d",
+        "policyholder_id": "2f7628c1",
+        "amount": 50000,
+        "reason": "Medical Treatment",
+        "status": "Approved",
+        "date": "2025-04-16"
+    },
+    "82123c34": {
+        "id": "82123c34",
+        "policyholder_id": "2f7628c1",
+        "amount": 30000,
+        "reason": "Surgery",
+        "status": "Pending",
+        "date": "2025-05-01"
+    },
+    "1cb7d3e9": {
+        "id": "1cb7d3e9",
+        "policyholder_id": "d72467c2",
+        "amount": 80000,
+        "reason": "Car Accident",
+        "status": "Approved",
+        "date": "2025-03-17"
+    },
+    "5e23a22b": {
+        "id": "5e23a22b",
+        "policyholder_id": "992127d7",
+        "amount": 100000,
+        "reason": "Critical Illness",
+        "status": "Rejected",
+        "date": "2025-02-15"
+    }
+}

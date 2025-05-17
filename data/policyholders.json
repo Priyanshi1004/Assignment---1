@@ -1,0 +1,34 @@
+{
+    "2f7628c1": {
+        "id": "2f7628c1",
+        "name": "John Doe",
+        "age": 35,
+        "policy_type": "Health",
+        "sum_insured": 500000,
+        "registration_date": "2025-05-16"
+    },
+    "d72467c2": {
+        "id": "d72467c2",
+        "name": "Jane Smith",
+        "age": 42,
+        "policy_type": "Vehicle",
+        "sum_insured": 300000,
+        "registration_date": "2025-05-16"
+    },
+    "992127d7": {
+        "id": "992127d7",
+        "name": "Mike Johnson",
+        "age": 50,
+        "policy_type": "Life",
+        "sum_insured": 1000000,
+        "registration_date": "2025-05-16"
+    },
+    "029e4ce0": {
+        "id": "029e4ce0",
+        "name": "Lisa Brown",
+        "age": 28,
+        "policy_type": "Health",
+        "sum_insured": 400000,
+        "registration_date": "2025-05-16"
+    }
+}
