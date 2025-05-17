@@ -22,9 +22,9 @@ Bonus task 4- Dockerfile.dockerfile
    python -m venv venv# On Windows
 ```
 3. Install required Python packages:
-   ```
+```
    pip install -r requirements.txt
-   ```
+```
 4. Run the Streamlit Web Application:
   ```   
    streamlit run main.py
@@ -116,7 +116,7 @@ DELETE /api/risks/<id>
   ```
   curl -X DELETE http://localhost:5000/api/risks/1
   ```
-## ***API Documentation****
+## ***API Documentation***
 
 You can explore and test the API using the Postman collection published here:
 
